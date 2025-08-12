@@ -1,1 +1,0 @@
-Open files individually
